@@ -1,0 +1,19 @@
+# Configured company boards — Career OS scans these every run.
+# Add companies with their ATS token (see references/job-boards.md for discovery).
+- name: Stripe
+  greenhouse: stripe
+- name: Anthropic
+  greenhouse: anthropic
+- name: Figma
+  greenhouse: figma
+- name: Vercel
+  greenhouse: vercel
+# Ashby tokens verified from careers pages (API is currently 401-gating
+# automated requests — scan.py warns and continues; use a browser session
+# for these until it clears):
+- name: Notion
+  ashby: notion
+- name: Ramp
+  ashby: ramp
+# TODO (needs browser discovery — JS-rendered careers pages):
+# - Retool, n8n, ElevenLabs, OpenAI
