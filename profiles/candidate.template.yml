@@ -1,0 +1,33 @@
+# Candidate profile — fill this in with your career agent.
+# The agent runs intake as a conversation; this file is what it saves.
+
+name: ""
+email: ""
+phone: ""
+linkedin: ""
+github: ""
+portfolio: ""
+location: ""              # city, country
+work_authorization: ""     # e.g. "Malaysian citizen", "needs sponsorship"
+
+seniority: ""             # junior | mid | senior | staff | lead | manager
+target_roles:
+  - ""
+skills:
+  - ""
+experience_summary: |
+  2-4 sentences: what you've done, with proof points and numbers.
+target_comp_min: ""        # minimum acceptable annual comp, e.g. 120000
+notice_period: ""
+
+preferences:
+  work_mode: any           # remote | hybrid | onsite | any
+  locations:
+    - ""
+  alert_threshold: 75      # agent pings you when a match scores >= this
+
+deal_breakers:
+  - ""                     # roles or industries you will never take
+
+notes: |
+  Anything your agent should remember about you.
