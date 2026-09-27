@@ -1,0 +1,32 @@
+# Candidate profile — template
+# Copy via: python3 scripts/new_candidate.py --name "..." --roles "..." --skills "..."
+name: TBD
+email: TBD
+phone: TBD
+linkedin: ""
+github: ""
+portfolio: ""
+location: TBD
+work_authorization: TBD   # e.g. "Malaysian citizen", "needs sponsorship"
+
+seniority: TBD            # junior | mid | senior | staff | lead | manager
+target_roles:
+  - TBD
+skills:
+  - TBD
+experience_summary: |
+  TBD — 2-4 sentences: what they've done, proof points with numbers.
+target_comp_min: TBD
+notice_period: TBD
+
+preferences:
+  work_mode: any          # remote | hybrid | onsite | any
+  locations:
+    - TBD
+  alert_threshold: 75
+
+deal_breakers:
+  - TBD                   # roles/industries they will never take
+
+notes: |
+  Anything the agent should remember about this person.
